@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "engines": {
-    "node": ">= 7.6.0"
+    "node": ">= 8.3.0",
+    "npm": "5.3.0"
   },
   "scripts": {
     "watch": "nodemon ./start.js --ignore public/",
